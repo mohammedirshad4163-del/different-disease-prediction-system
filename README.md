@@ -56,7 +56,7 @@ python disease_prediction.py
 
 Author
 
-Raja Nawab Shahani
+Mohammed Irshad N
 
 Note
 
